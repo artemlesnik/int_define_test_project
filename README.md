@@ -1,4 +1,4 @@
-## About project
+## Test project
 
 Added task related models, controller and resource.
 
